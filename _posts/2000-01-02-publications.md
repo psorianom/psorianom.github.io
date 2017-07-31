@@ -6,12 +6,10 @@ fa-icon: file-o
 ---
 
 # Publications
----
-
 ### 2017
 
 Edmundo-Pavel Soriano-Morales, Julien Ah-Pine, Sabine Loudcher  
-[Fusion Techniques for Named Entity Recognition and Word Sense Induction and Disambiguation](mediamining.univ-lyon2.fr/soriano/files/fusion_paper_preprint.pdf)  
+Fusion Techniques for Named Entity Recognition and Word Sense Induction and Disambiguation  
 Discovery Science 2017  
 
 ### 2016
@@ -29,11 +27,11 @@ Julien Ah-Pine, Edmundo-Pavel Soriano-Morales
 DMNLP 2016  
 
 Adrien Guille, Edmundo-Pavel Soriano-Morales  
-[Topic modeling and hypergraph mining to analyze the EGC conference history](mediamining.univ-lyon2.fr/people/guille/publications/egc2016.pdf)  
+[Topic modeling and hypergraph mining to analyze the EGC conference history](http://mediamining.univ-lyon2.fr/people/guille/publications/egc2016.pdf)  
 EGC 2016 (EGC Challenge winner)  
 
 Adrien Guille, Edmundo-Pavel Soriano-Morales  
-[TOM: A library for topic modeling and browsing](mediamining.univ-lyon2.fr/people/guille/publications/egc2016_demo.pdf)  
+[TOM: A library for topic modeling and browsing](http://mediamining.univ-lyon2.fr/people/guille/publications/egc2016_demo.pdf)  
 EGC 2016  
 
 ### 2015
@@ -45,4 +43,4 @@ Scientometrics 103 2015
 ## Master Thesis
 
 Edmundo-Pavel Soriano Morales  
-[Combining rule-based and statistical-based techniques in Sentiment Analysis](mediamining.univ-lyon2.fr/soriano/files/Soriano_report_master.pdf)
+[Combining rule-based and statistical-based techniques in Sentiment Analysis](http://mediamining.univ-lyon2.fr/soriano/files/Soriano_report_master.pdf)
