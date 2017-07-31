@@ -40,7 +40,7 @@ Sabine Loudcher, Wararat Jakawat, Edmundo-Pavel Soriano-Morales, Cécile Favre
 Combining OLAP and information networks for bibliographic data analysis: a survey  
 Scientometrics 103 2015  
 
-## Master Thesis
+### Master Thesis
 
 Edmundo-Pavel Soriano Morales  
 [Combining rule-based and statistical-based techniques in Sentiment Analysis](http://mediamining.univ-lyon2.fr/soriano/files/Soriano_report_master.pdf)
