@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Pavel Soriano-Morales"
+title:       "Pavel Soriano Morales"
 keywords:    "Pavel Soriano, Natural Language Processing, France, Data Science, Text Mining"
-description: "Personal page of Pavel Soriano-Morales"
+description: "Personal page of Pavel Soriano Morales"
 source_link: "https://github.com/psorianom/psorianom.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
